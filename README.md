@@ -9,7 +9,7 @@
 
 #### 说明
 
-本工程demo展示了Spring Boot整合querydsl的一些常见操作，可以做入门甚至进阶材料
+本工程demo展示了Spring Boot整合querydsl的一些常见操作，可以做入门甚至进阶学习材料
 
 ……
 
