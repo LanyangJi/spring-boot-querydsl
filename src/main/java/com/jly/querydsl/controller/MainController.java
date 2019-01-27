@@ -1,6 +1,5 @@
 package com.jly.querydsl.controller;
 
-import com.jly.querydsl.bean.Customer;
 import com.jly.querydsl.bean.QCustomer;
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import org.springframework.beans.factory.annotation.Autowired;
